@@ -3,6 +3,10 @@
     padding: 0;
 }
 
+img {
+    width: 50px;
+}
+
 .cabecalho {
     padding: 15px 25px;
     display: flex;
