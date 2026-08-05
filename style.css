@@ -33,7 +33,7 @@ body {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
-    background-color: rgba(164, 97, 24, 0.91);
+    background-color: rgba(143, 84, 21, 0.91);
 }
 
 main {
